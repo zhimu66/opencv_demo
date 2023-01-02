@@ -1,0 +1,9 @@
+venv
+*.pyc
+*.log
+.pytest_cache/
+log/
+upload_folder/
+.vscode/*
+*.mp4
+*.avi
